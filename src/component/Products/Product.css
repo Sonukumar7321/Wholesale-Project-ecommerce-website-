@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.descr{
+    font-family: sans-serif;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: center;
+    margin: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    display: block;
+    justify-content: center;
+    background-color: rgb(247, 251, 251) !important;
+    border: 1px rgb(178, 179, 180) solid !important;
+    .heading{   
+        justify-content: center;
+        text-align: center;
+        display: flex;
+    }
+    .descr-text{
+        display: inline;
+        padding: 50px !important;
+        width: 100%;
+        font-size: 18PX;
+
+    }
+}

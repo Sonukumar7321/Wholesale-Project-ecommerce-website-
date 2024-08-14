@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.select {
+  background-color: rgb(226, 249, 249);
+  display: flex;
+  .prod-div {
+    padding-top: 88px;
+    .container {
+      width: 100% !important;
+      /* border: 2px solid; */
+      margin-top: 30px !important;
+      margin: 100px;
+      display: flex;
+      justify-content: space-between;
+      background-color: white;
+      .prod-img {
+        img {
+          width: 550px;
+          height: 550px;
+        }
+      }
+      .prod-details {
+        padding-top: 10px;
+        height: 550px;
+        width: 50%;
+        .prod-type {
+          text-align: center;
+        .order-button{
+          text-align: center;
+          width: 100%;
+        }
+        
+        }
+      }
+    }
+  }
+}
